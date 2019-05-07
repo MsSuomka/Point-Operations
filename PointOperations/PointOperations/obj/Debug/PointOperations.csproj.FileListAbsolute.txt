@@ -1,0 +1,7 @@
+E:\Source\Repos\PointOperations\PointOperations\bin\Debug\PointOperations.exe.config
+E:\Source\Repos\PointOperations\PointOperations\bin\Debug\PointOperations.exe
+E:\Source\Repos\PointOperations\PointOperations\bin\Debug\PointOperations.pdb
+E:\Source\Repos\PointOperations\PointOperations\obj\Debug\PointOperations.csprojAssemblyReference.cache
+E:\Source\Repos\PointOperations\PointOperations\obj\Debug\PointOperations.csproj.CoreCompileInputs.cache
+E:\Source\Repos\PointOperations\PointOperations\obj\Debug\PointOperations.exe
+E:\Source\Repos\PointOperations\PointOperations\obj\Debug\PointOperations.pdb
